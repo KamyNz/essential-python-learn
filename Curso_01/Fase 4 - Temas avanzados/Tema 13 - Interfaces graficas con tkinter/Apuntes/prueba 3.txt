@@ -1,0 +1,2 @@
+Among these graphical objects are lines, circles, images, and even other widgets. With this widget it's possible to draw graphs and plots, create graphics editors, and implement various kinds of custom widgets. this is text new.
+Among these graphical objects are lines, circles, images, and even other widgets
